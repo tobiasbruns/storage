@@ -1,0 +1,11 @@
+{
+	"header": {
+		"name": "%s",
+		"type": "LEAF",
+		"contentType": "application/json"
+	},
+	"metaData": {
+		"data":[%s]
+	},
+	"content": %s
+}
